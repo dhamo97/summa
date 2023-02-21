@@ -2,7 +2,7 @@
 public class A extends A1 {
 	public A() {
 
-	    System.out.println("Default const...");
+	    System.out.println("kathir...");
 	  }
 
 	  public static void main(String[] args) {
